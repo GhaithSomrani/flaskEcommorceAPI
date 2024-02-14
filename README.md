@@ -4,7 +4,7 @@ This documentation outlines the functionalities provided by the API implemented 
 
 ## Base URL
 
-The base URL for accessing the API endpoints is `http://yourdomain.com` (replace `yourdomain.com` with the actual domain where the API is hosted).
+The base URL for accessing the API endpoints is `http://54.37.13.51:5000`
 
 ## Endpoints
 
